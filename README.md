@@ -10,4 +10,4 @@ When creating a new world, you can **add datapacks through the menu**.
 ~~Sure, check the **Modrinth page** for downloads. This will make it install for **every world** instead of just whatever you put it in.~~
 Modrinth page currently does not exist - TO BE UPDATED
 ## Safe to uninstall?
-Yup! Just get **take it out of your datapack folder** and it will stop spawning phantoms!
+Yup! Just **take it out of your datapack folder** and it will stop spawning phantoms!
