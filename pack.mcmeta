@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Makes sleeping in a bed spawn phantoms, encouraging the player to build a shelter to sleep if they don't want to be woken in the middle of the night",
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 10,
+      "max_inclusive": 67
+    }
+  }
+}
